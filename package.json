@@ -7,7 +7,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@hapi/hoek": "^6.2.1",
+    "@hapi/hoek": "^9.0.4",
     "@hapi/joi": "^15.0.3",
     "braces": "^3.0.2",
     "core-js": "3.0.0",
