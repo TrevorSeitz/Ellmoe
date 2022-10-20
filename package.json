@@ -11,7 +11,7 @@
     "@hapi/joi": "^15.0.3",
     "braces": "^3.0.2",
     "core-js": "3.0.0",
-    "expo": "^33.0.0",
+    "expo": "^46.0.16",
     "expo-task-manager-interface": "~3.0.0",
     "expokit": "^32.1.2",
     "firebase": "^6.0.2",
